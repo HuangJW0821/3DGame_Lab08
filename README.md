@@ -5,6 +5,7 @@
 > 游戏共有5个回合，每回合随机产生不超过10个飞碟按任意方向飞过屏幕。玩家需要在有限的时间内尽可能点击更多的飞碟，获得更高积分。不同颜色的飞碟对应不同积分。
 
 演示视频：https://www.bilibili.com/video/BV1fJCfYjEx3
+
 博客：https://blog.csdn.net/weixin_43867940/article/details/109420607
 
 <video src="https://www.bilibili.com/video/BV1fJCfYjEx3"></video>
