@@ -6,7 +6,7 @@
 
 演示视频：https://www.bilibili.com/video/BV1fJCfYjEx3
 
-博客：[https://blog.csdn.net/weixin_43867940/article/details/109420607](https://blog.csdn.net/Nuboj_Cloud/article/details/143637279)
+博客：https://blog.csdn.net/Nuboj_Cloud/article/details/143637279
 
 <video src="https://www.bilibili.com/video/BV1fJCfYjEx3"></video>
 
