@@ -6,7 +6,7 @@
 
 演示视频：https://www.bilibili.com/video/BV1fJCfYjEx3
 
-博客：https://blog.csdn.net/weixin_43867940/article/details/109420607
+博客：[https://blog.csdn.net/weixin_43867940/article/details/109420607](https://blog.csdn.net/Nuboj_Cloud/article/details/143637279)
 
 <video src="https://www.bilibili.com/video/BV1fJCfYjEx3"></video>
 
@@ -24,6 +24,8 @@
 
 ![](./img/prefabs.png)
 
+飞碟对象包含刚体属性，以赋予其物理运动特性。
+
 
 ### 二 · 代码架构 
 
@@ -34,7 +36,7 @@
 #### (1) Controllers
 
 - 采用工厂模式管理对象，定义`DiskFactory`类负责生产飞碟，`Singleton`类负责实例化工厂。
-- 通过定义`ISceneController`等接口负责部件间交互，通过`ScoreController`负责计算积分变化。
+- 通过定义`ISceneController`等接口负责部件间交互，通过`ScoreController`作为积分类负责计算积分变化。
 - 由`RoundControllers`作为主控制器负责控制游戏流程，包括控制资源的加载与回收、结束条件判定等。
 
 ![](./img/controllers.png)
